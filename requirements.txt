@@ -1,0 +1,6 @@
+selenium
+pandas
+glob2
+matplotlib
+seaborn
+plotly
